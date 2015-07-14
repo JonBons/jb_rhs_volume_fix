@@ -69,35 +69,35 @@ class cfgVehicles {
 		{
 			class Idle_int
 			{
-				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-idle","db+2.8",1};
+				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-idle","db+2.6",1};
 			};
 			class Engine_int
 			{
-				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-acceleration","db+2.8",1};
+				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-acceleration","db+2.6",1};
 			};
 			class Engine1_int
 			{
-				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-low","db+2.45",1};
+				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-low","db+2.25",1};
 			};
 			class Engine2_int
 			{
-				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-high","db+2.45",1};
+				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-high","db+2.25",1};
 			};
 			class Engine3_int
 			{
-				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-high","db+2.1",1};
+				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-high","db+1.9",1};
 			};
 			class Engine4_int
 			{
-				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-high","db+2.1",1};
+				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-high","db+1.9",1};
 			};
 			class Engine5_int
 			{
-				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-high","db+2.1",1};
+				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\URAL\int-ural-high","db+1.9",1};
 			};
 			class IdleThrust_int
 			{
-				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_idle_exhaust","db+3.5",1};
+				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_idle_exhaust","db+3",1};
 			};
 			class EngineThrust_int
 			{
@@ -105,15 +105,15 @@ class cfgVehicles {
 			};
 			class Engine1_Thrust_int
 			{
-				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_low1_exhaust","db+2.8",1};
+				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_low1_exhaust","db+2.6",1};
 			};
 			class Engine2_Thrust_int
 			{
-				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1_exhaust","db+2.45",1};
+				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1_exhaust","db+2.25",1};
 			};
 			class Engine3_Thrust_int
 			{
-				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1_exhaust","db+2.1",1};
+				sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1_exhaust","db+1.9",1};
 			};
 			class Engine4_Thrust_int
 			{
@@ -129,63 +129,63 @@ class cfgVehicles {
 			};
 			class TiresRockIn
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\tires\int_tires_dirt_soft_1","db+2.1",1.0};
+				sound[] = {"A3\Sounds_F\vehicles\soft\tires\int_tires_dirt_soft_1","db+1.9",1.0};
 			};
 			class TiresSandIn
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\tires\int-tires-sand2","db+2.1",1.0};
+				sound[] = {"A3\Sounds_F\vehicles\soft\tires\int-tires-sand2","db+1.9",1.0};
 			};
 			class TiresGrassIn
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\tires\int_tires_dirt_soft_2","db+2.1",1.0};
+				sound[] = {"A3\Sounds_F\vehicles\soft\tires\int_tires_dirt_soft_2","db+1.9",1.0};
 			};
 			class TiresMudIn
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\tires\int-tires-mud2","db+2.1",1.0};
+				sound[] = {"A3\Sounds_F\vehicles\soft\tires\int-tires-mud2","db+1.9",1.0};
 			};
 			class TiresGravelIn
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\tires\int_tires_gravel_1","db+2.1",1.0};
+				sound[] = {"A3\Sounds_F\vehicles\soft\tires\int_tires_gravel_1","db+1.9",1.0};
 			};
 			class TiresAsphaltIn
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\tires\int_tires_asfalt_2","db+2.1",1.0};
+				sound[] = {"A3\Sounds_F\vehicles\soft\tires\int_tires_asfalt_2","db+1.9",1.0};
 			};
 			class NoiseIn
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\noises\noise_int_car_3","db+3.5",1.0};
+				sound[] = {"A3\Sounds_F\vehicles\soft\noises\noise_int_car_3","db+3",1.0};
 			};
 			class breaking_int_road
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_loop_04_int","db+3.5",1};
+				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_loop_04_int","db+3",1};
 			};
 			class acceleration_int_road
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_loop_02_int","db+3.5",1};
+				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_loop_02_int","db+3",1};
 			};
 			class turn_left_int_road
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_loop_02_int","db+3.5",1};
+				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_loop_02_int","db+3",1};
 			};
 			class turn_right_int_road
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_loop_02_int","db+3.5",1};
+				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_loop_02_int","db+3",1};
 			};
 			class breaking_int_dirt
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_14_dirt_breaking_int","db+3.5",1};
+				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_14_dirt_breaking_int","db+3",1};
 			};
 			class acceleration_int_dirt
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_16_dirt_acceleration_int","db+3.5",1};
+				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_16_dirt_acceleration_int","db+3",1};
 			};
 			class turn_left_int_dirt
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_18_dirt_int","db+3.5",1};
+				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_18_dirt_int","db+3",1};
 			};
 			class turn_right_int_dirt
 			{
-				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_18_dirt_int","db+3.5",1};
+				sound[] = {"A3\Sounds_F\vehicles\soft\noises\slipping_tires_18_dirt_int","db+3",1};
 			};
 		};
 	};
