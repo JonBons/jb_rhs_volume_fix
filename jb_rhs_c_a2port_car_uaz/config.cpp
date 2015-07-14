@@ -54,63 +54,63 @@ class cfgVehicles {
 		{
 			class Engine
 			{
-				sound[]	= {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_ext_acceleration", db+5.5, 1, 200};
+				sound[]	= {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_ext_acceleration", db+5, 1, 200};
 			};
 			class Idle_int
 			{
-				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_idle", db+3.5, 1};
+				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_idle", db+3, 1};
 			};
 			class Engine_int
 			{
-				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_acceleration", db+4, 1};
+				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_acceleration", db+3.5, 1};
 			};
 			class Engine1_int
 			{
-				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_low1", db+4, 1};
+				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_low1", db+3.5, 1};
 			};
 			class Engine2_int
 			{
-				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1", db+3.5, 1};
+				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1", db+2.5, 1};
 			};
 			class Engine3_int
 			{
-				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1", db+3, 1};
+				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1", db+2.5, 1};
 			};
 			class Engine4_int
 			{
-				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1", db+2.5, 1};
+				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1", db+2, 1};
 			};
 			class Engine5_int
 			{
-				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1", db+2.5, 1};
+				sound[]	=	{"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1", db+2, 1};
 			};
 			class IdleThrust_int
 		    {
-		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_idle_exhaust", db+3,1 };
+		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_idle_exhaust", db+2.5,1 };
 		  	};
 		  	class EngineThrust_int
 		  	{
-		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_low1_exhaust", db+3,1 };
+		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_low1_exhaust", db+2.5,1 };
 		  	};
 		  	class Engine1_Thrust_int
 		  	{
-		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_low1_exhaust", db+2.5,1 };
+		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_low1_exhaust", db+2,1 };
 		  	};
 		  	class Engine2_Thrust_int
 		  	{
-		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1_exhaust", db+2,1 };
+		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1_exhaust", db+1.5,1 };
 		  	};
 		  	class Engine3_Thrust_int
 		  	{
-		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1_exhaust", db+1.5,1 };
+		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1_exhaust", db+1,1 };
 		  	};
 		  	class Engine4_Thrust_int
 		  	{
-		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1_exhaust", db+1.5,1 };
+		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1_exhaust", db+1,1 };
 		  	};
 		  	class Engine5_Thrust_int
 		  	{
-		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1_exhaust", db+1.5,1 };
+		    	sound[] = {"rhsafrf\addons\rhs_a2port_car\sounds\UAZ\uaz_int_high1_exhaust", db+1,1 };
 	  		};
 		};
 	};
