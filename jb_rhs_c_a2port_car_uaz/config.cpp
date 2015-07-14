@@ -13,6 +13,40 @@ class CfgPatches
 };
 
 class cfgVehicles {
+	class LandVehicle;
+	class Car: LandVehicle
+	{
+		class HitPoints;
+		class NewTurret;
+	};
+	class Car_F: Car
+	{
+		class Turrets
+		{
+			class MainTurret: NewTurret
+			{
+				disableSoundAttenuation = 1;
+				class ViewOptics;
+			};
+		};
+		class HitPoints
+		{
+			class HitLFWheel;
+			class HitLF2Wheel;
+			class HitRFWheel;
+			class HitRF2Wheel;
+			class HitBody;
+			class HitGlass1;
+			class HitGlass2;
+			class HitGlass3;
+			class HitGlass4;
+			class HitGlass5;
+			class HitGlass6;
+		};
+		class EventHandlers;
+		class AnimationSources;
+	};
+	class Offroad_01_base_F: Car_F {};
 
 	class RHS_UAZ_Base: Offroad_01_base_F
 	{
